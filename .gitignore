@@ -1,0 +1,5 @@
+outputs/
+learning/outputs/
+__pycache__/
+*.npz
+*.tgz
